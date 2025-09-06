@@ -1,3 +1,3 @@
 # USA-Accidents
 
-(NoteBook on Kaggle)[https://www.kaggle.com/code/kirellosyoussefsamy/usaccidents]
+[NoteBook on Kaggle](https://www.kaggle.com/code/kirellosyoussefsamy/usaccidents)
